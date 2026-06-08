@@ -11,14 +11,14 @@ Type a backlog item. The Scrum Master assembles 2–5 relevant specialists from 
 ## How to contribute
 
 ### 💡 Submit an idea
-Have a feature request or a suggestion? Open a [new issue](https://github.com/your-org/scrumcoin-ideas/issues/new?labels=idea) with the `idea` label and describe:
+Have a feature request or a suggestion? Open a [new issue](https://github.com/scrumcoin/ideas-and-issues/issues/new?labels=idea) with the `idea` label and describe:
 
 - What the idea is
 - Why it would be useful
 - Any rough implementation thoughts
 
 ### 🐛 Report a bug
-Found a bug? Open a [new issue](https://github.com/your-org/scrumcoin-ideas/issues/new?labels=bug) with the `bug` label and include:
+Found a bug? Open a [new issue](https://github.com/scrumcoin/ideas-and-issues/issues/new?labels=bug) with the `bug` label and include:
 
 - Steps to reproduce
 - Expected vs actual behavior
