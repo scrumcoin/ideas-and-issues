@@ -25,7 +25,7 @@ Found a bug? Open a [new issue](https://github.com/scrumcoin/ideas-and-issues/is
 - Environment details (OS, browser, version)
 
 ### ❓ Ask a question
-Use the `question` label for general questions about ScrumCoin.
+Use the `question` label for [general questions](https://github.com/scrumcoin/ideas-and-issues/issues/new?labels=question) about ScrumCoin.
 
 ## Labels
 
